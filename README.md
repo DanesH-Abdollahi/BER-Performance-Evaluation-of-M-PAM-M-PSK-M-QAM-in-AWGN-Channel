@@ -21,7 +21,7 @@ Eb_N0_dB = 0 : 0.1 : 13 ;
   <img src="/images/M_PAM_5.png"/>
 </p>
 
-Check  [this code](https://github.com/DanesH-Abdollahi/DanesH-Abdollahi/BER-Performance-Evaluation-of-M-PAM-M-PSK-M_QAM-in-AWGN-Channel/blob/main/src/main1.m) out for the main code.
+Check  [this code](https://github.com/DanesH-Abdollahi/BER-Performance-Evaluation-of-M-PAM-M-PSK-M_QAM-in-AWGN-Channel/blob/main/src/main1.m) out for the main code.
 
 ---
 
@@ -51,7 +51,7 @@ Check  [this code](https://github.com/DanesH-Abdollahi/DanesH-Abdollahi/BER-Perf
   <img src="/images/M_PSK_11.png"/>
 </p>
 
-Check  [this code](https://github.com/DanesH-Abdollahi/DanesH-Abdollahi/BER-Performance-Evaluation-of-M-PAM-M-PSK-M_QAM-in-AWGN-Channel/blob/main/src/main2.m) out for the main code.
+Check  [this code](https://github.com/DanesH-Abdollahi/BER-Performance-Evaluation-of-M-PAM-M-PSK-M_QAM-in-AWGN-Channel/blob/main/src/main2.m) out for the main code.
 
 ---
 
@@ -81,6 +81,6 @@ Check  [this code](https://github.com/DanesH-Abdollahi/DanesH-Abdollahi/BER-Perf
   <img src="/images/M_QAM_11.png"/>
 </p>
 
-Check  [this code](https://github.com/DanesH-Abdollahi/DanesH-Abdollahi/BER-Performance-Evaluation-of-M-PAM-M-PSK-M_QAM-in-AWGN-Channel/blob/main/src/main2.m) out for the main code.
+Check  [this code](https://github.com/DanesH-Abdollahi/BER-Performance-Evaluation-of-M-PAM-M-PSK-M_QAM-in-AWGN-Channel/blob/main/src/main2.m) out for the main code.
 
 ---
