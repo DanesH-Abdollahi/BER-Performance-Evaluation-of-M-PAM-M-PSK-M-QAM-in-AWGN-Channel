@@ -10,11 +10,11 @@ Eb_N0_dB = 0 : 0.1 : 13 ;
 ## M-PAM
 
 <p align="center">
-  <img src="/images/M_PAM_1.png" width="50%" /><img src="/images/M_PAM_2.png" width="50%" /> 
+  <img src="/images/M_PAM_1.png" width="49%" /><img src="/images/M_PAM_2.png" width="49%" /> 
 </p>
 
 <p align="center">
-  <img src="/images/M_PAM_3.png" width="50%" /><img src="/images/M_PAM_4.png" width="50%" /> 
+  <img src="/images/M_PAM_3.png" width="49%" /><img src="/images/M_PAM_4.png" width="49%" /> 
 </p>
 
 <p align="center">
