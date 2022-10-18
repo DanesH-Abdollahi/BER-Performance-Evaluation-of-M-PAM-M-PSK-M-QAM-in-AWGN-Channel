@@ -1,4 +1,4 @@
-# Bit Error Rate Performance Evaluation of M-PAM &amp; M-PSK &amp; M_QAM in AWGN Channel in Matlab
+# Bit Error Rate Performance Evaluation of M-PAM &amp; M-PSK &amp; M-QAM in AWGN Channel in Matlab
 
 ## Initial Setup
 ```matlab
